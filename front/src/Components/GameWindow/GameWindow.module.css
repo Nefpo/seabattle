@@ -1,8 +1,0 @@
-.game_window {
-  display: flex;
-  flex-direction: row;
-}
-
-.cells_line{
-  display: flex;
-}
